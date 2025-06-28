@@ -50,8 +50,9 @@ portfolio.sayHi()
 
 ## Featured Posts
 
-- [**Redesigning My Personal Website**]([https://danyilbutov.com/posts/intro](https://danyilbutov.com/posts/portfolio))  
-  A reflection on my journey and growth.
+- [**Redesigning My Personal Website**](https://danyilbutov.com/posts/portfolio) A fresh take on portfolio design. Balancing minimalism with personality using widget-based interactions.
+
+
 
 
 > 💬 *Always open to collaborations or just sharing ideas - don’t hesitate to drop me a message!*
