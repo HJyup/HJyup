@@ -50,7 +50,7 @@ portfolio.sayHi()
 
 ## Featured Posts
 
-- [**Me as a Software Engineer**](https://danyilbutov.com/posts/intro)  
+- [**Redesigning My Personal Website**]([https://danyilbutov.com/posts/intro](https://danyilbutov.com/posts/portfolio))  
   A reflection on my journey and growth.
 
 
